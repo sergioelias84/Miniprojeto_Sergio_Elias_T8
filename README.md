@@ -49,13 +49,19 @@ A leitura da base foi realizada com `pandas.read_csv()`. As transformações for
 
 ## 7. Resultados e conclusões
 
-As conclusões devem apresentar de três a seis resultados numéricos efetivamente obtidos no notebook, uma recomendação baseada nos dados e uma limitação da análise.
+- **Faturamento total observado:** a soma do faturamento registrado na tabela de análise foi de R$ 15.840,67.
+- **Faturamento médio diário:** o valor médio calculado foi de R$ 754,32 por dia registrado na tabela.
+- **Maior faturamento diário:** em 25/09/2026, foi registrado o faturamento de R$ 1.715,76.
+- **Menor faturamento diário:** em 19/09/2026, foi registrado o faturamento de R$ 146,26.
+- **Quantidade de pedidos:** foram contabilizados 36 pedidos, com média de 1,71 pedido por dia registrado na tabela.
 
-- Maior e menor faturamento diário: conforme os resultados apresentados no notebook.
-- Faturamento total e médio diário: conforme os cálculos realizados.
-- Quantidade total e média de pedidos: conforme os cálculos realizados.
-- Recomendação: utilizar os resultados para orientar análises posteriores sobre o desempenho das vendas.
-- Limitação: os resultados dependem da qualidade, da abrangência e do significado dos registros presentes na base.
+### Recomendação
+
+Acompanhar diariamente a quantidade de pedidos e o faturamento para identificar variações no desempenho das vendas e investigar os motivos dos dias com maior e menor faturamento.
+
+### Limitação da análise
+
+Os resultados representam os registros disponíveis na base analisada. A média diária foi calculada considerando os dias presentes na tabela agrupada, não necessariamente todos os dias do mês. Além disso, faturamento não representa lucro, pois não foram considerados custos e despesas.
 
 ## 8. Arquivos do repositório
 
