@@ -1,0 +1,37 @@
+pedido_id,cliente,data_pedido,categoria,valor_compra,quantidade,canal,status
+P0001,Cliente 01,2026-09-25,Beleza,499.33,5,Loja,pendente
+P0002,Cliente 02,2026-09-20,Moda,654.57,1,App,entregue
+P0003,Cliente 03,2026-09-03,Eletrônicos,496.24,4,Site,entregue
+P0004,Cliente 04,2026-09-25,Beleza,685.4,3,Site,entregue
+P0005,,2026-09-20,Beleza,157.59,2,Loja,entregue
+P0006,Cliente 06,2026-09-15,Moda,266.41,5,App,entregue
+P0007,Cliente 07,2026-09-15,Casa,674.58,1,Site,entregue
+P0008,Cliente 08,2026-09-06,Eletrônicos,173.53,4,App,entregue
+P0009,Cliente 09,2026-09-19,Moda,,5,App,entregue
+P0010,Cliente 10,2026-09-21,Moda,379.41,4,Site,entregue
+P0011,Cliente 11,2026-09-16,Eletrônicos,856.3,1,Loja,pendente
+P0012,Cliente 12,2026-09-19,Eletrônicos,146.26,5,Site,entregue
+P0013,Cliente 13,2026-09-03,Moda,217.69,1,Loja,pendente
+P0014,Cliente 14,2026-09-16,Beleza,419.83,,Loja,entregue
+P0015,Cliente 15,2026-09-26,Eletrônicos,399.65,1,App,cancelado
+P0016,Cliente 16,2026-09-02,Moda,316.43,5,Loja,entregue
+P0017,Cliente 17,2026-09-21,Beleza,644.07,4,Loja,entregue
+P0018,Cliente 18,2026-09-29,Casa,484.8,2,Site,pendente
+P0019,Cliente 19,2026-09-01,Casa,176.33,4,Site,entregue
+P0020,,2026-09-28,Casa,556.01,4,Loja,entregue
+P0021,Cliente 21,2026-09-07,Moda,613.12,3,Site,cancelado
+P0022,Cliente 22,2026-09-13,Beleza,941.36,1,Loja,entregue
+P0023,Cliente 23,2026-09-08,Beleza,375.03,5,Loja,entregue
+P0024,Cliente 24,2026-09-24,Eletrônicos,342.67,5,Loja,pendente
+P0025,Cliente 25,2026-09-08,Eletrônicos,,3,Loja,entregue
+P0026,Cliente 26,2026-09-08,Beleza,870.13,3,Loja,entregue
+P0027,Cliente 27,2026-09-22,Moda,552.07,5,Site,entregue
+P0028,Cliente 28,2026-09-07,Beleza,429.88,1,App,cancelado
+P0029,Cliente 29,2026-09-01,Moda,943.3,5,Site,entregue
+P0030,Cliente 30,2026-09-17,Beleza,482.63,4,Loja,entregue
+P0031,Cliente 31,2026-09-28,Eletrônicos,90.03,1,Site,entregue
+P0032,Cliente 32,2026-09-12,Moda,206.12,1,App,pendente
+P0033,Cliente 33,2026-09-23,Casa,364.38,3,Site,pendente
+P0034,Cliente 34,2026-09-01,Beleza,348.9,5,Loja,pendente
+P0035,Cliente 35,2026-09-12,Moda,545.59,1,App,entregue
+P0036,Cliente 36,2026-09-25,Beleza,531.03,3,Loja,pendente
